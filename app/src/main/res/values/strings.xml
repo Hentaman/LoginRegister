@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+
+    <string name="tel">Логин:</string>
+    <string name="password">Пароль:</string>
+    <string name="logotip">logotip</string>
+    <string name="regerlink">Регистрация</string>
+    <string name="ok">OK</string>
+    <string name="tele">Введите ваш номер телефона</string>
+
+</resources>
